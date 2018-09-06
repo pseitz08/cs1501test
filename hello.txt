@@ -1,3 +1,3 @@
 Hello world!
-Name:
-Email:
+Name:Philip Seitz
+Email:pss22@pitt.edu
